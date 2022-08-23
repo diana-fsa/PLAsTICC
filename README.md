@@ -10,5 +10,11 @@ The [dataset](https://www.kaggle.com/competitions/PLAsTiCC-2018/overview) was us
 
 ![Image2](https://github.com/diana-fsa/PLAsTICC/blob/main/img/flux.png)
 
+The training dataset of kaggle was divided in 80% for training and 20% for testing and was used in experiments with several classifiers, from neural networks to random forest. Also feature extraction was used, as well as feature selection and fine-tuning.
+
+The final result was not bad with a 71.97% of accuracy with random forest.
+
+![Image3](https://github.com/diana-fsa/PLAsTICC/blob/main/img/acc.png)
+
 
 
